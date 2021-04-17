@@ -12,4 +12,4 @@ With this you are able to use the URL and it's overall easier.
 
 This code produces this output: *Note: as of the release there is no way to detect if the message has been sent successfully without looking at discord*
 
-![alt text](https://github.com/Tur-ph/discord_webhook/blob/main/assets/screenshot1.jpg "Screenshot 1")
+![alt text](https://github.com/Tur-ph/discord_webhook/blob/main/assets/screenshot1.png "Screenshot 1")
