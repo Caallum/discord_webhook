@@ -4,6 +4,10 @@ module.exports = class Webhook {
 	constructor(url) {
 		this.setup(url);
 	}
+	
+	/**
+	  * @params Hello
+	*/
 
 	setup(url) {
 		this.url = url;
